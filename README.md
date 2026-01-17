@@ -10,7 +10,7 @@ The pipeline focuses on real-time data ingestion using Kafka, distributed storag
 ## Author Information
 - Name: Abhilash Tarigopula
 - Institution: ESILV
-- Course: Big Data Distributed Systems
+- Course: Big Data and  Distributed Systems
 - Academic Year: 2025–2026
 
 ---
@@ -144,6 +144,3 @@ MIT License
 
 ---
 
-## Author
-Abhilash Tarigopula  
-M2 Computer Science & Data Science
