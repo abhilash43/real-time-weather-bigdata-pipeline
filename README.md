@@ -135,7 +135,10 @@ The dashboard displays system-level metrics such as memory usage and node status
 ---
 
 ## Demo Video Link
-To be added
+The full project demonstration video  is available at the link below:
+
+👉 https://drive.google.com/drive/u/1/folders/1_bW2vX7BCC1XRGJQk2RvbUgZeoPBklgr
+
 
 ---
 
